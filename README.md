@@ -1,8 +1,8 @@
 ## Abstract
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wf2311&show_icons=true&hide_border=true" alt="wf2311's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf2311&layout=compact&hide_border=true&langs_count=10" alt="wf2311's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=wf2311&show_icons=true&hide_border=true" alt="wf2311's Github Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wf2311&layout=compact&hide_border=true&langs_count=10" alt="wf2311's Top Langs" width="42%" /> 
 </p>
 
 ## Blog 
